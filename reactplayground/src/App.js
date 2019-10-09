@@ -1,13 +1,15 @@
 import React from 'react';
-import logo from './logo.svg';
 import './App.css';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-      </header>
+    <div>
+        <h1>
+          Hello Everyone! <br/> 
+          If you have somehow stublled upon this page, <br/>
+          let me breif you on it's purpose.
+        </h1>
+        <div className='img'><img src='https://www.frontier-enterprise.com/wp-content/uploads/2019/07/dassault-delmia.jpg' alt='two men stand at a high tech desk'/></div>
     </div>
   );
 }
