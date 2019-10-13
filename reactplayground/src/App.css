@@ -12,3 +12,8 @@ h1 {
   display: flex;
   justify-content: center;
 }
+p {
+  color: white;
+  text-align: center;
+  font-size: 1.5em;
+}
