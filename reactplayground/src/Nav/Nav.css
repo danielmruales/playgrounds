@@ -1,0 +1,10 @@
+li {
+    display: flex;
+    justify-content: space-evenly;
+    background-color: black;
+    margin-bottom: 60px
+}
+
+li > p{
+    color: white;
+}
